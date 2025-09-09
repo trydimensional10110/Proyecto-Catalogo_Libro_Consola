@@ -1,1 +1,0 @@
-Este proyecto se encarga de mostrar la gestion de un catalogo de libros, crear, modificar,buscar y eliminarlos mediante un códigos que te brinda las distintas opciones correspondientes.
